@@ -2,7 +2,7 @@
 
 As part of the KDAN ecosystem, ComPDF Conversion SDK brings PDF document conversion to your Node.js applications. Convert PDF files into editable Office documents, images, HTML, and more — ideal for server-side document processing, REST API backends, and automation workflows that need reliable PDF transformation with layout preservation.
 
-> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/orgs/ComPDFKit/discussions).
+> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/ComPDFKit/compdfkit-conversion-sdk-nodejs/discussions).
 
 **Supported Features**
 
